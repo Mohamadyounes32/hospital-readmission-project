@@ -110,19 +110,19 @@ High-level KPIs and readmission distribution analysis.
 
 Clinical trends and specialty-level analysis.
 
-![Clinical Insights](dashboard/dashboard_screenshots/clinical_insights.png)
+![Clinical Insights](dashboard/dashboard_screenshots/clinical_insights.jpg)
 
 ## Risk Analysis
 
 Risk segmentation and utilization behavior analysis.
 
-![Risk Analysis](dashboard/dashboard_screenshots/risk_analysis.png)
+![Risk Analysis](dashboard/dashboard_screenshots/risk_analysis.jpg)
 
 ## Scenario Analysis
 
 Interactive simulation for reducing readmission rates.
 
-![Scenario Analysis](dashboard/dashboard_screenshots/scenario_analysis.png)
+![Scenario Analysis](dashboard/dashboard_screenshots/Scenairo_analysis.jpg)
 
 ---
 
