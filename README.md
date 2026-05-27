@@ -101,16 +101,28 @@ Developed an interactive Power BI dashboard with:
 # 📊 Dashboard Pages
 
 ## Executive Overview
+
 High-level KPIs and readmission distribution analysis.
 
+![Executive Overview](dashboard/dashboard_screenshots/overview.jpg)
+
 ## Clinical Insights
+
 Clinical trends and specialty-level analysis.
 
+![Clinical Insights](dashboard/dashboard_screenshots/clinical_insights.png)
+
 ## Risk Analysis
+
 Risk segmentation and utilization behavior analysis.
 
+![Risk Analysis](dashboard/dashboard_screenshots/risk_analysis.png)
+
 ## Scenario Analysis
+
 Interactive simulation for reducing readmission rates.
+
+![Scenario Analysis](dashboard/dashboard_screenshots/scenario_analysis.png)
 
 ---
 
